@@ -31,3 +31,4 @@
 <img width="1366" height="768" alt="screenshot-2025-12-16_00-20-20" src="https://github.com/user-attachments/assets/962bed2b-e305-4543-ba3b-3baf6e62d50d" />
 <img width="1366" height="768" alt="screenshot-2025-12-16_00-21-22" src="https://github.com/user-attachments/assets/bd655ecb-3a92-4384-be7f-26c4c15750bb" />
 <img width="1366" height="768" alt="screenshot-2025-12-16_00-23-30" src="https://github.com/user-attachments/assets/31852c40-b48a-4c3f-b8e5-91fbd9b1794b" />
+# omarchy-star-theme
